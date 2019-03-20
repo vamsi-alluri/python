@@ -4,6 +4,6 @@ class node:
 		if (n%2==0):
 			print("Even")
 		else:
-			print("Invalid")
+			print("Odd")
 hel = node()
 hel.eo(int(input()))
